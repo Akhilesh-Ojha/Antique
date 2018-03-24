@@ -1,0 +1,8 @@
+SAGY changes to be made in JSON data file (sagyjson20mar2018) based on JSON Master (SAGY Form)
+1. Field name to be changed to Question and question no in brackets
+2. type = Integer --> numbers instead of text for number fields
+3. Value to be changed to label 
+4. Group prefix to be removed
+
+
+
